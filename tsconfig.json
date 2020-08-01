@@ -21,5 +21,6 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "noImplicitAny": false, // 環境構築を対処
 }
