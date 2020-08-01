@@ -52,24 +52,24 @@ const initialState: covidState = {
       deltaConfirmed: 0,
       totalRecovered: 0,
       confirmed: {
-      total: 555,
-      china: 548,
-      outsideChina: 7
+        total: 555,
+        china: 548,
+        outsideChina: 7
       },
       deltaConfirmedDetail: {
-      total: 0,
-      china: 0,
-      outsideChina: 0
+        total: 0,
+        china: 0,
+        outsideChina: 0
       },
       deaths: {
-      total: 17,
-      china: 17,
-      outsideChina: 0
+        total: 17,
+        china: 17,
+        outsideChina: 0
       },
       recovered: {
-      total: 0,
-      china: 0,
-      outsideChina: 0
+        total: 0,
+        china: 0,
+        outsideChina: 0
       },
       active: 0,
       deltaRecovered: 0,
